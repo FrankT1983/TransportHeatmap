@@ -6,11 +6,11 @@ Creates a travel time map from a given startpoint and a given time.
 
 
 To Use
-	- Cell 2: Define or load Google API Key
-	- Cell 5/6: Define Start Kooridinates or use Google to figure out Coordinates
-	- Cell 7: Define Start Time
-	- Cell 8: Define Area
-
+- Cell 2: Define or load Google API Key
+- Cell 5/6: Define Start Kooridinates or use Google to figure out Coordinates
+- Cell 7: Define Start Time
+- Cell 8: Define Area
+	
 Load/Storing:
-    - Cell 12: Will pickle the final results
-    - Cell 9: Will load pickled results	
+- Cell 12: Will pickle the final results
+- Cell 9: Will load pickled results	
