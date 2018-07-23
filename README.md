@@ -14,3 +14,6 @@ To Use
 Load/Storing:
 - Cell 12: Will pickle the final results
 - Cell 9: Will load pickled results	
+
+Ideas:
+- maybe use **scipy.spatial.Voronoi** instead of heatmap
